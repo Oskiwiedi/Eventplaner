@@ -15,4 +15,4 @@ Falls IntelliJ Run/Debug Configurations fehlt.</br>
     - Command: run
     - Scripts:dev
 
-(c) P.Rutschmann bbw.ch
+(c) P.Rutschmann bbw.ch# Eventplaner
