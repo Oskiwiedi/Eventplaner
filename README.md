@@ -16,3 +16,4 @@ Falls IntelliJ Run/Debug Configurations fehlt.</br>
     - Scripts:dev
 
 (c) P.Rutschmann bbw.ch# Eventplaner
+# Eventplaner
